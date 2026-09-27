@@ -23,3 +23,4 @@ temp/
 # Fichiers IA (instructions locales, non versionnees en entreprise)
 CLAUDE.md
 .github/copilot-instructions.md
+.DS_Store
